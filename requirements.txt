@@ -70,7 +70,6 @@ pymongo==4.8.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
 pyzmq==26.0.2
 referencing==0.35.1
 regex==2024.7.24
